@@ -57,6 +57,16 @@
      <Compile Include="Assets\3d\B_ball\Bounce.cs" />
      <Compile Include="Assets\3d\C_chair\Rotate.cs" />
      <Compile Include="Assets\3d\D_duck\FloatBehavior.cs" />
+     <Compile Include="Assets\3d\F_fish\Fish.cs" />
+     <Compile Include="Assets\3d\I_icecream\Floatercone.cs" />
+     <Compile Include="Assets\3d\M_mango\Floatermango.cs" />
+     <Compile Include="Assets\3d\N_nails\Rotatenail.cs" />
+     <Compile Include="Assets\3d\O_orange\Floaterorange.cs" />
+     <Compile Include="Assets\3d\P_pencil\Pencilrotate.cs" />
+     <Compile Include="Assets\3d\Q_question\Questionrotate.cs" />
+     <Compile Include="Assets\3d\R_rocket\Bouncerocket.cs" />
+     <Compile Include="Assets\3d\S_sun\Rotatesun.cs" />
+     <Compile Include="Assets\3d\T_train\Rotatetrain.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
@@ -95,9 +105,9 @@
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\link.xml" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
-     <None Include="Assets\StreamingAssets\Vuforia\AliveLearning.xml" />
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
      <None Include="Assets\readme_SDK.txt" />
+     <None Include="Assets\StreamingAssets\Vuforia\AliveLearning.xml" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
      <None Include="Assets\license_3rdpartynotice.txt" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
