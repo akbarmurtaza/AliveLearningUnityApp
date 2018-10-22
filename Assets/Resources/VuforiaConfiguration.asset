@@ -44,8 +44,10 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
+    - AliveLearning_lowercase
     - AliveLearning
     dataSetsToActivate:
+    - AliveLearning_lowercase
     - AliveLearning
   videoBackground:
     clippingMode: 0

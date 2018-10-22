@@ -67,6 +67,10 @@
      <Compile Include="Assets\3d\R_rocket\Bouncerocket.cs" />
      <Compile Include="Assets\3d\S_sun\Rotatesun.cs" />
      <Compile Include="Assets\3d\T_train\Rotatetrain.cs" />
+     <Compile Include="Assets\3d\U_umbrella\Rotateumbrella.cs" />
+     <Compile Include="Assets\3d\W_watch\Rotatewatch.cs" />
+     <Compile Include="Assets\3d\X_xylophone\Floaterx.cs" />
+     <Compile Include="Assets\3d\Y_yoyo\Rotateyoyo.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
@@ -107,6 +111,7 @@
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
      <None Include="Assets\readme_SDK.txt" />
+     <None Include="Assets\StreamingAssets\Vuforia\AliveLearning_lowercase.xml" />
      <None Include="Assets\StreamingAssets\Vuforia\AliveLearning.xml" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
      <None Include="Assets\license_3rdpartynotice.txt" />

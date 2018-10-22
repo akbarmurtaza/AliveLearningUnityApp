@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="q_question" size="500.000000 500.000000" />
+    <ImageTarget name="z_zebra" size="500.000000 500.000000" />
+    <ImageTarget name="y_yoyo" size="500.000000 500.000000" />
+    <ImageTarget name="x_xylophone" size="500.000000 500.000000" />
+    <ImageTarget name="w_watch" size="500.000000 500.000000" />
+    <ImageTarget name="v_van" size="500.000000 500.000000" />
+    <ImageTarget name="u_umberella" size="500.000000 500.000000" />
+    <ImageTarget name="t_train" size="500.000000 500.000000" />
+    <ImageTarget name="s_sun" size="500.000000 500.000000" />
+    <ImageTarget name="r_rocket" size="500.000000 500.000000" />
+    <ImageTarget name="p_pencil" size="500.000000 500.000000" />
+    <ImageTarget name="o_orange" size="500.000000 500.000000" />
+    <ImageTarget name="n_nail" size="500.000000 500.000000" />
+    <ImageTarget name="m_mango" size="500.000000 500.000000" />
+    <ImageTarget name="l_lamp" size="500.000000 500.000000" />
+    <ImageTarget name="k_kite" size="500.000000 500.000000" />
+    <ImageTarget name="j_jug" size="500.000000 500.000000" />
+    <ImageTarget name="i_icecream" size="500.000000 500.000000" />
+    <ImageTarget name="h_hand" size="500.000000 500.000000" />
+    <ImageTarget name="g_graffe" size="500.000000 500.000000" />
+    <ImageTarget name="f_fish" size="500.000000 500.000000" />
+    <ImageTarget name="e_elephant" size="500.000000 500.000000" />
+    <ImageTarget name="d_duck" size="500.000000 500.000000" />
+    <ImageTarget name="c_chair" size="500.000000 500.000000" />
+    <ImageTarget name="b_ball" size="500.000000 500.000000" />
+    <ImageTarget name="a_apple" size="500.000000 500.000000" />
+  </Tracking>
+</QCARConfig>
